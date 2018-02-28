@@ -1,8 +1,3 @@
-spring:
-  data.mongodb:
-    host: localhost
-    port: 27017
-    database: demons-souls
 server:
   port: 18000
 

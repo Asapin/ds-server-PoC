@@ -17,3 +17,4 @@ If you want to use this project as a starting point to create your own server - 
 
 # Useful links
 https://www.reddit.com/r/demonssouls/comments/80xvl8/demons_souls_private_server_emulation_thread/
+https://github.com/ymgve/desse - Source code for Demon's Souls private server
